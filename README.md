@@ -11,6 +11,6 @@ The checkpoints:
 
 # Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
-![Screenshot2](screenshot2.png)
+![Screenshot2](screenshot2.PNG)
