@@ -1,0 +1,7 @@
+﻿  Tutorial10a.cpp
+\\mac\home\downloads\336\tutorial10\visual studio projects\tutorial10a\tutorial\tutorial10a.cpp(987): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\home\downloads\336\tutorial10\visual studio projects\tutorial10a\tutorial\tutorial10a.cpp(995): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\mac\home\downloads\336\tutorial10\visual studio projects\tutorial10a\tutorial\tutorial10a.cpp(1172): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\downloads\336\tutorial10\visual studio projects\tutorial10a\tutorial\tutorial10a.cpp(1186): warning C4018: '<': signed/unsigned mismatch
+\\mac\home\downloads\336\tutorial10\visual studio projects\tutorial10a\tutorial\tutorial10a.cpp(1206): warning C4018: '<': signed/unsigned mismatch
+  Tutorial.vcxproj -> \\Mac\Home\Downloads\336\Tutorial10\Visual Studio Projects\Tutorial10a\Debug\Tutorial.exe
